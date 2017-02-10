@@ -53,4 +53,12 @@
 #####(9)react-native-lightbox: ^0.6.0
 #####(10)react-native-simple-store: ^1.1.0
 ###5.运行截图
-![](http://img.blog.csdn.net/20170205170838853 "Gif图加载效果") 
+![](http://img.blog.csdn.net/20170205165917661 "欢迎页") 
+![](http://img.blog.csdn.net/20170205170035868 "首页") 
+![](http://img.blog.csdn.net/20170205170202787 "发现") 
+![](http://img.blog.csdn.net/20170205170323810 "精选") 
+![](http://img.blog.csdn.net/20170205170427015 "") 
+![](http://img.blog.csdn.net/20170205170807801 "漫画章节列表") 
+![](http://img.blog.csdn.net/20170205170819181 "漫画详情") 
+![](http://img.blog.csdn.net/20170205170838853 "") 
+![](http://img.blog.csdn.net/20170205170851286 "我") 
