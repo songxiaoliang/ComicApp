@@ -52,3 +52,5 @@
 #####(8)react-native-scrollable-tab-view: ^0.7.0
 #####(9)react-native-lightbox: ^0.6.0
 #####(10)react-native-simple-store: ^1.1.0
+###5.运行截图
+![](http://img.blog.csdn.net/20170205170838853 "Gif图加载效果") 
