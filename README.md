@@ -4,19 +4,19 @@
 #####3.开发工具：Vs Code 1.8
 ####1.项目架构
 #####app
-#####actions ---- 用户行为
-#####reducer ---- 对用户行为进行分发，更新状态
-#####store   ---- 整合全部reducer
-#####container  ---- 业务模块
-#####components ---- UI组件
-#####utils   ---- 工具文件
-#####images  ---- 图片
-#####constan ---- 常量
-#####style   ---- 样式
-#####api     ---- 网络URL
-#####widget  ---- 自定义组件
-#####root.js ---- App根文件
-#####app.js  ---- App入口
+#####actions 用户行为
+#####reducer 对用户行为进行分发，更新状态
+#####store   整合全部reducer
+#####container  业务模块
+#####components UI组件
+#####utils      工具文件
+#####images     图片
+#####constan    常量
+#####style      样式
+#####api        网络URL
+#####widget     自定义组件
+#####root.js    App根文件
+#####app.js     App入口
 #####index.ios.js
 #####index.android.js
 #####项目采用React-Native   react-redux   react-thunk框架开发，目前由于没有mac设备，只完成兼容Android环境，代码模块化实现，组件封装实现代码复用。
