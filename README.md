@@ -53,6 +53,7 @@
 #####(9)react-native-lightbox: ^0.6.0
 #####(10)react-native-simple-store: ^1.1.0
 ###5.运行截图
+<img width="150" height="150" src="http://img.blog.csdn.net/20170210111205969"/>
 ![](http://img.blog.csdn.net/20170210111205969 "欢迎页") 
 ![](http://img.blog.csdn.net/20170210110535276 "首页") 
 ![](http://img.blog.csdn.net/20170210111244016 "发现") 
