@@ -2,7 +2,8 @@
 #####1.平台：Android客户端（后期完善IOS端）
 #####2.开发框架：React Native     react-redux     react-thunk
 #####3.开发工具：Vs Code 1.8
-####1.项目采用React-Native   react-redux   react-thunk框架开发，目前由于没有mac设备，只完成兼容Android环境，代码模块化实现，组件封装实现代码复用。
+###1.介绍
+#####项目采用React-Native   react-redux   react-thunk框架开发，目前由于没有mac设备，只完成兼容Android环境，代码模块化实现，组件封装实现代码复用。
 ###2.App模块
 
  分为首页、发现、精选、我四大版块，以下是功能列表：
