@@ -15,7 +15,7 @@ let HttpUtil = {
     fetchGet: (url, params, successCallback, failCallback) => {
 
          // 1.拼接參數
-        url += "?key=5f7a830c9cb97c68d78c3c77e458ffd2";
+        url += "?key=4b82308b740b32e1fd95e8818a730d3f";
         if (params) {
             var paramsBody = Object.keys(params)
                 .reduce((a, k) => {
@@ -50,7 +50,7 @@ let HttpUtil = {
             headers: {
                 'Content-Type': 'application/x-www-form-urlencoded'
             },
-            body: paramsBody + "&key=5f7a830c9cb97c68d78c3c77e458ffd2"
+            body: paramsBody + "&key=4b82308b740b32e1fd95e8818a730d3f"
         })
             .then((response) => response.json())
             .then((responseObj) => successCallback(responseObj))

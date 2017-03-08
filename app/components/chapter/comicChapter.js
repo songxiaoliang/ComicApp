@@ -75,7 +75,7 @@ class Chapter extends Component {
             <View style={chapterStyle.container}>
                 <ToolBar
                     title={this.props.name}
-                    leftButton="md-arrow-back"
+                    leftButton="ios-arrow-back"
                     titleStyle={{ marginLeft: 10 }}
                     leftIconAction={this._back.bind(this)}
                     />

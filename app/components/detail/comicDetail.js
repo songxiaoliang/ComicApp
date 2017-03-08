@@ -55,7 +55,7 @@ class ComicDetail extends Component {
         return (
             <View style={detailStyle.container}>
                 <ToolBar
-                    leftButton="md-arrow-back"
+                    leftButton="ios-arrow-back"
                     title={this.props.rowData.name}
                     titleStyle={{ marginLeft: 10 }}
                     leftIconAction={this._back.bind(this)}
