@@ -35,7 +35,7 @@
 #####(9)react-native-lightbox: ^0.6.0
 #####(10)react-native-simple-store: ^1.1.0
 ###运行截图
-<img width="300" height="500" src="http://oleeed73x.bkt.clouddn.com/20170210111205969.jpg"/>
+<img width="300" height="500" src="http://oleeed73x.bkt.clouddn.com/123.png"/>
 <img width="300" height="500" src="http://oleeed73x.bkt.clouddn.com/20170210110535276.jpg"/>
 <img width="300" height="500" src="http://oleeed73x.bkt.clouddn.com/20170210111336377.jpg"/>
 <img width="300" height="500" src="http://oleeed73x.bkt.clouddn.com/20170210111244016.jpg"/>
