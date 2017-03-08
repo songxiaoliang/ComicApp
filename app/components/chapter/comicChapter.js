@@ -130,17 +130,6 @@ class Chapter extends Component {
         this.props.navigator.pop();
     }
 }
-// /**
-//  * 退出App
-//  */
-// BackAndroid.addEventListener("hardwareBackPress", () => {
-
-//     if (this.onMain) {
-//         _navigator.pop();
-//         BackAndroid.removeEventListener('hardwareBackPress',()=>{});
-//     }
-//     return true;
-// })
 
 export default connect((state) => {
     const {Chapter} = state;
