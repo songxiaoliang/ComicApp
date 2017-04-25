@@ -1,8 +1,10 @@
 # 漫画书
+
 ###简介
 #####1. 开发框架：React Native     react-redux     react-thunk
 #####2. 开发环境：Vs Code 1.8
 #####3. 项目采用React-Native   react-redux   react-thunk框架开发，目前由于没有mac设备，只完成兼容Android环境，代码模块化实现，组件封装实现代码复用
+
 ###App模块
 
  分为首页、发现、精选、我四大版块，以下是功能列表：
@@ -14,6 +16,7 @@
     5.添加缓存功能，增强用户体验。
 
 项目用到的接口来自聚合数据。
+
 ###整体设计
 
 #####1.使用官方的Navigator管理全局路由，可自由配置Scene的出场动画，处理Android端的后退键事件
@@ -34,6 +37,7 @@
 #####(8)react-native-scrollable-tab-view: ^0.7.0
 #####(9)react-native-lightbox: ^0.6.0
 #####(10)react-native-simple-store: ^1.1.0
+
 ###运行截图
 <img width="300" height="500" src="https://raw.githubusercontent.com/songxiaoliang/ComicApp/master/demo/123.png"/>
 <img width="300" height="500" src="https://raw.githubusercontent.com/songxiaoliang/ComicApp/master/demo/20170210110535276.jpg"/>
