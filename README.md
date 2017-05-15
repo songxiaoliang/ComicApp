@@ -1,6 +1,7 @@
 # 漫画书
 ### [Apk下载](http://oleeed73x.bkt.clouddn.com/comic.zip)  
 
+
 ### 简介
 ##### 1. 开发框架：React Native     react-redux     react-thunk
 ##### 2. 开发环境：Vs Code 1.8
