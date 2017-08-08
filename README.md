@@ -3,9 +3,9 @@
 
 
 ### 简介
-##### 1. 开发框架：React Native   redux  react-redux   react-thunk
+##### 1. 开发框架：React Native   redux  react-redux   redux-thunk
 ##### 2. 开发环境：Vs Code 1.8
-##### 3. 项目采用React-Native 0.44.2   redux    react-redux    react-thunk框架开发，目前由于没有mac设备，只完成兼容Android环境，代码模块化实现，组件封装实现代码复用
+##### 3. 项目采用React-Native 0.44.2   redux    react-redux    redux-thunk框架开发，目前由于没有mac设备，只完成兼容Android环境，代码模块化实现，组件封装实现代码复用
 
 ### App模块
 
@@ -31,14 +31,13 @@
 ##### 依赖方式，cd到项目根目录，执行： npm install [插件名称] -save
 ##### (1)redux: ^3.6.0
 ##### (2)react-redux: ^5.0.2
-##### (3)react-thunk: ^1.0.0
-##### (4)redux-thunk: ^2.1.0
-##### (5)react-native-blur: ^2.0.0
-##### (6)react-native-viewpager
-##### (7)react-native-vector-icons: ^4.0.0
-##### (8)react-native-scrollable-tab-view: ^0.7.0
-##### (9)react-native-lightbox: ^0.6.0
-##### (10)react-native-simple-store: ^1.1.0
+##### (3)redux-thunk: ^2.1.0
+##### (4)react-native-blur: ^2.0.0
+##### (5)react-native-viewpager
+##### (6)react-native-vector-icons: ^4.0.0
+##### (7)react-native-scrollable-tab-view: ^0.7.0
+##### (8)react-native-lightbox: ^0.6.0
+##### (9)react-native-simple-store: ^1.1.0
 
 ### 运行截图
 <img width="300" height="500" src="https://raw.githubusercontent.com/songxiaoliang/ComicApp/master/demo/123.png"/>
