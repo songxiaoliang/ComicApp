@@ -1,11 +1,11 @@
 # 漫画书
-### [Apk下载](http://oleeed73x.bkt.clouddn.com/comic.zip)  
+### [Apk下载](http://oleeed73x.bkt.cloud dn.com/comic.zip)  
 
 
 ### 简介
-##### 1. 开发框架：React Native     react-redux     react-thunk
+##### 1. 开发框架：React Native   redux  react-redux   react-thunk
 ##### 2. 开发环境：Vs Code 1.8
-##### 3. 项目采用React-Native   react-redux   react-thunk框架开发，目前由于没有mac设备，只完成兼容Android环境，代码模块化实现，组件封装实现代码复用
+##### 3. 项目采用React-Native 0.44.2   redux    react-redux    react-thunk框架开发，目前由于没有mac设备，只完成兼容Android环境，代码模块化实现，组件封装实现代码复用
 
 ### App模块
 
