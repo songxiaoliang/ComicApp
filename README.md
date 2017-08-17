@@ -5,7 +5,8 @@
 ### 简介
 ##### 1. 开发框架：React Native   redux  react-redux   redux-thunk
 ##### 2. 开发环境：Vs Code 1.8
-##### 3. 项目采用React-Native 0.44.2   redux    react-redux    redux-thunk框架开发，代码模块化实现，组件封装实现代码复用，兼容Android、iOS 双平台
+##### 3. 项目采用React-Native 0.44.2   redux    react-redux    redux-thunk框架开发，代码模块化实现，组件封装实现代码复用
+##### 4. 兼容Android、iOS 双平台
 
 ### App模块
 
