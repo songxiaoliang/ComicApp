@@ -23,9 +23,8 @@
 
 ##### 1.使用官方的Navigator管理全局路由，可自由配置Scene的出场动画，处理Android端的后退键事件
 ##### 2.使用FlexBox和jsx语法进行布局，并封装了一系列通用的组件，比如TopBar 、带上下拉功能的ListView等，便于全局复用
-##### 3.导入第三方库react-native-wechat实现微信分享
-##### 4.使用StaticContainer，阻止ListView的头部和尾部频繁刷新，优化渲染性能。
-##### 5.引入redux相关功能，包括redux/react-redux/redux-thunk/，设计与漫画列表和详情相关的全局state结构，使用redux管理相关的组件
+##### 3.使用StaticContainer，阻止ListView的头部和尾部频繁刷新，优化渲染性能。
+##### 4.引入redux相关功能，包括redux/react-redux/redux-thunk/，设计与漫画列表和详情相关的全局state结构，使用redux管理相关的组件
 
 ### 第三方库 
 ##### 依赖方式，cd到项目根目录，执行： npm install [插件名称] -save
